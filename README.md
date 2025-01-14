@@ -9,4 +9,4 @@
 [Hard Clear](csv/hard_output_final.csv) 
 
 ## Jupyter Notebook
-[Jupyter Notebook](ipynb/project-v1.0.0.ipynb) 
+[Jupyter Notebook](https://github.com/not-so-private/birt/blob/main/ipynb/project-v1.0.0.ipynb) 
